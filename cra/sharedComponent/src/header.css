@@ -1,0 +1,30 @@
+.header {
+    background-color: #007bff; /* Bleu primaire */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    color: #ffcc00;
+  }
